@@ -1,0 +1,216 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Maria",
+      "password": "maria12345",
+      "gender": "F",
+      "dateOfBirth": "1996-01-01",
+      "email": "maria@gmail.com",
+      "mobileNumber": 1234567890,
+      "pincode": 123456,
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "12345",
+      "mobile": "6393297551",
+      "email": "s8863180@gmail.com",
+      "dob": "1998-11-11",
+      "gender": "F",
+      "pin": "654321",
+      "city": "Doharighat",
+      "state": "Uttar Pradesh",
+      "country": "Bharat",
+      "id": 2
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "12345",
+      "mobile": "6393297551",
+      "email": "s8863180@gmail.com",
+      "dob": "1998-11-11",
+      "gender": "F",
+      "pin": "654321",
+      "city": "Doharighat",
+      "state": "Uttar Pradesh",
+      "country": "Indiaa",
+      "id": 3
+    }
+  ],
+  "coaches": [
+    {
+      "id": 1,
+      "name": "Rose",
+      "password": "rose12345",
+      "gender": "F",
+      "dob": "1996-01-01",
+      "mobile": 1234567890,
+      "speciality": "Confidence Issues"
+    },
+    {
+      "name": "Saurabh Gupta",
+      "password": "12345",
+      "dob": "1998-11-25",
+      "gender": "M",
+      "mobile": "8576025830",
+      "speciality": "Gold medalist from Oxford dictionary",
+      "id": 2
+    },
+    {
+      "name": "Rishabh Gupta",
+      "password": "987654",
+      "dob": "1996-09-30",
+      "gender": "M",
+      "mobile": "7007412743",
+      "speciality": "Achiever",
+      "id": 3
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "1234",
+      "dob": "1999-11-11",
+      "gender": "F",
+      "mobile": "6393297551",
+      "speciality": "Anger Management",
+      "id": 4
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "12345ty",
+      "dob": "1998-11-11",
+      "gender": "F",
+      "mobile": "6393297551",
+      "speciality": "1234565432",
+      "id": 5
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "123456",
+      "dob": "1998-11-11",
+      "gender": "M",
+      "mobile": "6393297551",
+      "speciality": "1234567",
+      "id": 6
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "12345",
+      "dob": "1998-11-11",
+      "gender": "M",
+      "mobile": "6393297551",
+      "speciality": "123456",
+      "id": 7
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "123456543",
+      "dob": "1998-11-11",
+      "gender": "M",
+      "mobile": "6393297551",
+      "speciality": "1234567",
+      "id": 8
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "123456",
+      "dob": "1998-11-11",
+      "gender": "M",
+      "mobile": "6393297551",
+      "speciality": "qwertyui",
+      "id": 9
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "1234",
+      "dob": "1998-11-11",
+      "gender": "M",
+      "mobile": "6393297551",
+      "speciality": "1234567",
+      "id": 10
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "qwert",
+      "dob": "1998-11-11",
+      "gender": "M",
+      "mobile": "6393297551",
+      "speciality": "qwerty",
+      "id": 11
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "12345",
+      "dob": "1998-11-11",
+      "gender": "M",
+      "mobile": "6393297551",
+      "speciality": "kuch bhi",
+      "id": 12
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "1234",
+      "dob": "1998-11-11",
+      "gender": "M",
+      "mobile": "6393297551",
+      "speciality": "12345",
+      "id": 13
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "23456",
+      "dob": "1998-11-11",
+      "gender": "M",
+      "mobile": "6393297551",
+      "speciality": "12345",
+      "id": 14
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "12345",
+      "dob": "1998-11-11",
+      "gender": "M",
+      "mobile": "6393297551",
+      "speciality": "1234",
+      "id": 15
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "12345",
+      "dob": "1998-11-11",
+      "gender": "M",
+      "mobile": "6393297551",
+      "speciality": "Anger Management",
+      "id": 16
+    },
+    {
+      "name": "Shushma Gupta",
+      "password": "12345",
+      "dob": "1998-11-11",
+      "gender": "M",
+      "mobile": "6393297551",
+      "speciality": "Gold medalist from Oxford dictionary",
+      "id": 17
+    },
+    {
+      "name": "Shahil Verma",
+      "password": "12345",
+      "dob": "2002-02-28",
+      "gender": "M",
+      "mobile": "1234567899",
+      "speciality": "mern",
+      "id": 18
+    },
+    {
+      "name": "Saurabh",
+      "password": "rose12345",
+      "dob": "1998-12-25",
+      "gender": "M",
+      "mobile": "8576025830",
+      "speciality": "falhfafha",
+      "id": 19
+    }
+  ]
+}

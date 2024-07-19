@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+.modal {
+  position: fixed; /* Ensures the modal overlays the entire viewport */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 100; /* Ensures the modal is displayed above other elements */
+}
+
+.modal-content {
+  background-color: white; /* Modal content background */
+  padding: 20px;
+  border-radius: 5px; /* Rounded corners */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+  text-align: center; /* Center the modal content */
+}
+
+.modal button {
+  background-color: #4CAF50; /* Green button color */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.modal button:hover {
+  background-color: #3e8e41; /* Darker green on hover */
+}
+
